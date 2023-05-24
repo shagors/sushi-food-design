@@ -4,4 +4,8 @@
     * vanilla JS
     * AOS for motion and animation 
 
-![preview img](/capture1.png)
+![preview img](/previewImg/Capture1.PNG)
+![preview img](/previewImg/Capture2.PNG)
+![preview img](/previewImg/Capture3.PNG)
+![preview img](/previewImg/Capture4.PNG)
+![preview img](/previewImg/Capture5.PNG)
